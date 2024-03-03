@@ -15,6 +15,7 @@ function App () {
             <h1>Social Midea</h1>
             <BemVindo name="Jonas" age="28" />
             <BemVindo name="Virginia" age="30" />
+            <BemVindo name="Henrique" age="35" />
             <p>Estou aprendsendo a desenvolver com react-js</p>
         </div>
     );
